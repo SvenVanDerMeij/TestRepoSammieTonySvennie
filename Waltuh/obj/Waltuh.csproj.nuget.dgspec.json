@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 2\\Module 2\\skill\\TestRepoSammieTonySvennie\\Waltuh\\Waltuh.csproj": {}
+    "C:\\Users\\newne\\OneDrive - Mediacollege Amsterdam\\ma\\jaar2\\TestRepoSammieTonySvennie\\Waltuh\\Waltuh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 2\\Module 2\\skill\\TestRepoSammieTonySvennie\\Waltuh\\Waltuh.csproj": {
+    "C:\\Users\\newne\\OneDrive - Mediacollege Amsterdam\\ma\\jaar2\\TestRepoSammieTonySvennie\\Waltuh\\Waltuh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 2\\Module 2\\skill\\TestRepoSammieTonySvennie\\Waltuh\\Waltuh.csproj",
+        "projectUniqueName": "C:\\Users\\newne\\OneDrive - Mediacollege Amsterdam\\ma\\jaar2\\TestRepoSammieTonySvennie\\Waltuh\\Waltuh.csproj",
         "projectName": "Waltuh",
-        "projectPath": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 2\\Module 2\\skill\\TestRepoSammieTonySvennie\\Waltuh\\Waltuh.csproj",
-        "packagesPath": "C:\\Users\\svenj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 2\\Module 2\\skill\\TestRepoSammieTonySvennie\\Waltuh\\obj\\",
+        "projectPath": "C:\\Users\\newne\\OneDrive - Mediacollege Amsterdam\\ma\\jaar2\\TestRepoSammieTonySvennie\\Waltuh\\Waltuh.csproj",
+        "packagesPath": "C:\\Users\\newne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\newne\\OneDrive - Mediacollege Amsterdam\\ma\\jaar2\\TestRepoSammieTonySvennie\\Waltuh\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\svenj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\newne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

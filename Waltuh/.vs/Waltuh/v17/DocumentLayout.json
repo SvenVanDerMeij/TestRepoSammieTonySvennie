@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 2\\Module 2\\skill\\TestRepoSammieTonySvennie\\Waltuh\\",
+  "WorkspaceRootPath": "C:\\Users\\newne\\OneDrive - Mediacollege Amsterdam\\ma\\jaar2\\TestRepoSammieTonySvennie\\Waltuh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69F6E52C-D883-48ED-BB84-B5AF6AAFC3D5}|Waltuh.csproj|c:\\users\\svenj\\onedrive\\documents\\ma dingen\\bewijzenmap\\jaar 2\\module 2\\skill\\testreposammietonysvennie\\waltuh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69F6E52C-D883-48ED-BB84-B5AF6AAFC3D5}|Waltuh.csproj|c:\\users\\newne\\onedrive - mediacollege amsterdam\\ma\\jaar2\\testreposammietonysvennie\\waltuh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69F6E52C-D883-48ED-BB84-B5AF6AAFC3D5}|Waltuh.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 2\\Module 2\\skill\\TestRepoSammieTonySvennie\\Waltuh\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\newne\\OneDrive - Mediacollege Amsterdam\\ma\\jaar2\\TestRepoSammieTonySvennie\\Waltuh\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\svenj\\OneDrive\\Documents\\Ma dingen\\bewijzenmap\\Jaar 2\\Module 2\\skill\\TestRepoSammieTonySvennie\\Waltuh\\Program.cs",
+              "ToolTip": "C:\\Users\\newne\\OneDrive - Mediacollege Amsterdam\\ma\\jaar2\\TestRepoSammieTonySvennie\\Waltuh\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAv2wAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T13:51:14.312Z",
               "EditorCaption": ""

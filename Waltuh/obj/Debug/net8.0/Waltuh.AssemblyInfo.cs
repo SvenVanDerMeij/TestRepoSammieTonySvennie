@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Waltuh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7788dbd80961d818926e2d23220a36d497711077")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2704b16d24d83b6e4ccd6e0c199ccc00a8619a16")]
 [assembly: System.Reflection.AssemblyProductAttribute("Waltuh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Waltuh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
